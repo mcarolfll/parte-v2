@@ -1,0 +1,100 @@
+body {
+background-color: rgba(251, 255, 202, 0.607);
+}
+nav{
+margin-left: 370px;
+}
+
+div {
+margin-left: 5px;
+width: 97%;
+padding: 20px;
+font-size: 1.2em;
+background: hsla(44, 49%, 82%, 0.659);
+border-radius: 14px;
+}
+
+a,p {
+text-decoration: none;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+cursor: pointer;
+padding: 12px;
+color: #9a641e;
+}
+
+h1 {
+    font-size: 2.5rem; /* Tamanho da fonte */
+    color: #9a641e; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+}
+h3{
+    font-size: 2rem; /* Tamanho da fonte */
+    color: #9a641e; /* Cor do texto */
+    text-align: center; /* Alinha o texto ao centro */
+}
+h6{
+    font-size: 1.2rem; /* Tamanho da fonte */
+    color: #3c3b3bde; /* Cor do texto */
+    text-align: justify; /* Alinha o texto ao centro */
+    font-family:Arial, Helvetica, Roboto, Open Sans;
+    
+}
+.bloco1{
+    display: block;
+    margin-left: 50px;
+    width: 90%;
+    word-break: normal;
+}
+
+.bloco2{
+    display: block;
+    margin-left: 50px;
+    width: 90%;
+    word-break: normal;
+
+}
+
+.set{
+  margin-left:1px;
+  width: 90%;
+  word-break: normal;
+  margin-top: 8px;
+  height: 400px;
+  border-radius: 30px;
+  margin-left: 70px;
+}
+
+.out{
+  margin-left:1px;
+  width: 90%;
+  word-break: normal;
+  margin-top: 8px;
+  height: 400px;
+  border-radius: 30px;
+  margin-left: 70px;
+}
+
+.nov{
+  margin-left:1px;
+  width: 90%;
+  word-break: normal;
+  margin-top: 8px;
+  height: 400px;
+  border-radius: 30px;
+  margin-left: 70px;
+}
+
+
+.redes{
+  margin-top: 463px;
+  justify-content: center;
+  display: flex;
+}
+
+footer {
+  text-align: center; /* Alinha o texto ao centro */
+  padding: 0; /* Espaçamento interno */
+  width: 100%; /* Largura total da página */
+  bottom: 0; /* Alinha ao fundo da página */
+}
